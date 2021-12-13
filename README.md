@@ -7,6 +7,4 @@ CODES: https://www.iiti.ac.in/people/~surya/research/bts/
 
 For more information, kindly send an email to iit.sadaf@gmail.com
 
-Reference/Citation: 
-
-**Syed Sadaf Ali**, I. I. Ganapathi and S. Prakash. Robust technique for fingerprint template protection, IET Biometrics, 2018.
+Reference/Citation:  **Syed Sadaf Ali**, I. I. Ganapathi and S. Prakash. Robust technique for fingerprint template protection, IET Biometrics, 2018.
